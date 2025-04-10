@@ -32,8 +32,7 @@ This repository contains a detailed and structured walkthrough of core Python co
   - Creation, indexing, slicing
   - Common methods: `append()`, `insert()`, `pop()`, `remove()`, `sort()`, `reverse()`
 - String operations and methods
-- Mini Projects:
-  - **Guess the Number** game
+
 
 ## 🚀 How to Use
 
